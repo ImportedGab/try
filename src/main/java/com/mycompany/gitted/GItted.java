@@ -10,7 +10,7 @@ package com.mycompany.gitted;
  */
 
 
-// get na kita teh
+// what if >>??<<
 
 import java.util.Scanner;
 
