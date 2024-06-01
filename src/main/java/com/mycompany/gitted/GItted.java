@@ -9,6 +9,9 @@ package com.mycompany.gitted;
  * @author Dakilang Gabo
  */
 
+
+// get na kita teh
+
 import java.util.Scanner;
 
 public class GItted {
